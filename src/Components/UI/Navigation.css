@@ -1,0 +1,35 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 1px;
+    margin: 1px;
+    display: flex;
+  }
+  
+  li {
+    margin-left: 2rem;
+    
+  }
+  
+  a {
+    color: rgb(163, 94, 94);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: blue;
+  }
+  .contact-text {
+    color: azure;
+    margin-right: 5pc;
+    margin-top: -5 rem;
+  }
+
+  .fa-icon {
+    font-size: 20px; /* Adjust the size as needed */
+  }
